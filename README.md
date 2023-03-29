@@ -3,12 +3,13 @@
 
 - 🔭 I’m currently working on **bringing AI innovation** to Gruppo Hera
 
-- 👯 I’m looking to collaborate on **Machine Learning projects**
+- 👯 I’m looking to collaborate on **Machine Learning projects** or **open-source**
 
 - 💬 Ask me about **Python, Data Science libraries, Deep Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
