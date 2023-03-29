@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis!</h1>
-<h3 align="center">I am a curious and passionate Data Scientist with wide ranging interests in analytics, machine learning, and deep learning. My skills in Python, SQL, Scikit-learn and PyTorch enable me to develop accurate models that solve complex problems. I enjoy exploring new techniques and applying my knowledge to various domains. Let's work together to uncover insights and drive meaningful outcomes from your data.</h3>
+<h3 align="center">I am a curious and passionate Data Scientist with wide ranging interests in analytics, machine learning, and deep learning. I enjoy exploring new techniques and applying my knowledge to various domains. Let's work together to uncover insights and drive meaningful outcomes from your data.</h3>
 
 - 🔭 I’m currently working on **bringing AI innovation to Gruppo Hera**
 
