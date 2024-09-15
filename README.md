@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis!</h1>
 <h3 align="center">I am a curious and passionate Data Scientist with wide ranging interests in analytics, machine learning, and deep learning. I enjoy exploring new techniques and applying my knowledge to various domains to uncover insights and drive meaningful outcomes from your data.</h3>
 
-- 🔭 I’m currently working on **bringing AI innovation** to Gruppo Hera
+- 🔭 I’m currently a Deep Learning Specialist @AnalyticsNetwork
 
 - 👯 I’m looking to collaborate on **Machine Learning projects** or **open-source**
 
