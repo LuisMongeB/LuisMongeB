@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **open-source** deep learning projects 
 
-- 💬 Ask me about **Python, Deep Learning and LLMS**
+- 💬 Ask me about **Python, Deep Learning and LLMs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
