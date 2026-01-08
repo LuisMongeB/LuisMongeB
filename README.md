@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Luis!</h1>
-<h3 align="center">I am a curious and passionate AI Engineer with wide ranging interests in <strong>Machine Learning</strong>, <strong>Deep Learning.</strong> I enjoy exploring new techniques and applying my knowledge to various domains to solve problems through building solutions.</h3>
+# Hi, I'm Luis.
 
-- 🔭 I’m currently an AI Engineer @AnalyticsNetwork
+I am an AI Engineer focused on **productionizing LLM applications and Agentic AI systems** and building **high-performance inference systems**.
 
-- 👯 I’m looking to collaborate on **open-source** deep learning projects 
+I bridge the gap between research and production by combining the flexibility of **Python** with the performance of **Rust**.
 
-- 💬 Ask me about **Python, Deep Learning and LLMs**
+### 🔭 Current Focus
+* **Agentic Workflows:** Building autonomous systems using local LLMs (Ollama) and custom orchestration layers.
+* **High-Performance AI:** Leveraging Rust to build low-latency API gateways and serving layers for AI models.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-</p>
+### 🏗 Architecture & Stack
+* **Core:** Python (FastAPI, PyTorch), Rust (Actix, Tokio)
+* **LLMs:** LangChain, Ollama, HuggingFace, OpenAI API
+* **Ops:** Docker, CI/CD, Azure
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luismongeb&show_icons=true&locale=en" alt="luismongeb" /></p>
+---
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/luismongeb/).*
